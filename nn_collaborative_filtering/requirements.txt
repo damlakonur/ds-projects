@@ -1,0 +1,11 @@
+ipykernel==6.13.0
+ipython==8.3.0
+keras==2.8.0
+Keras-Preprocessing==1.1.2
+keras-tuner==1.1.2
+Markdown==3.3.7
+matplotlib==3.5.2
+numpy==1.22.3
+pandas==1.4.2
+tensorflow==2.8.0
+tensorboard==2.2.0
